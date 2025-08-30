@@ -1,0 +1,9 @@
+Python==3.12.7
+Flask==3.0.3
+pandas==2.2.2
+numpy==1.26.4
+selenium==4.35.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+webdriver-manager==4.0.2
+gnicorn==23.0.0
