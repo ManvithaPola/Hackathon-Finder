@@ -48,9 +48,8 @@ Hackathon Finder solves this by:
 - JavaScript (Vanilla + DataTables.js + Chart.js)  
 
 **Backend:**  
-- Python 3.12.7  
-- Flask 3.0.3  
-- Gunicorn (for deployment)  
+- Python  
+- Flask   
 
 **Data:**  
 - Web scraping (Selenium, BeautifulSoup)  
@@ -95,9 +94,9 @@ Visit: http://127.0.0.1:5000
 
 ### 🔮 Future Enhancements
 
-✅ User login & registration (personalized hackathon tracker)
-✅ Search & filter hackathons by country, domain, or prize pool
-✅ Email reminders for deadlines
-✅ Integration with APIs (Devpost, MLH, HackerEarth, etc.)
-✅ Dark mode UI for a futuristic experience
-✅ Leaderboard & community discussions
+- ✅ User login & registration (personalized hackathon tracker)
+- ✅ Search & filter hackathons by country, domain, or prize pool
+- ✅ Email reminders for deadlines
+- ✅ Integration with APIs (Devpost, MLH, HackerEarth, etc.)
+- ✅ Dark mode UI for a futuristic experience
+- ✅ Leaderboard & community discussions
